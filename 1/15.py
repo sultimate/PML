@@ -1,4 +1,4 @@
-# 1.15 计算矩阵的迹
+# 1.15 计算矩阵的迹 trace: 即对角线元素之和
 
 import numpy as np
 
